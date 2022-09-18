@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat
 
-🔗[CLIQUE AQUI PARA ACESSAR](https://pedrors21.github.io-nlw-esports-explorer)
+🔗[CLIQUE AQUI PARA ACESSAR](https://pedrors21.github.io/nlw-esports-explorer/)
 
 ## 💻Tecnologias
 
